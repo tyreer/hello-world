@@ -1,0 +1,108 @@
+{
+    "headerNavOptions": {
+        "login": "Login",
+        "register": "Register",
+        "account": "Account",
+        "about": "About"
+    },
+    "landing": {
+        "heroHeaderLine1": "What is",
+        "heroHeaderLine2": "Locale Studio?",
+        "heroBody": "Fully integrated with GitHub, Locale Studio is the simplest way to manage the text (copy and translations) of your website / mobile app.",
+        "registerCTA": "Register",
+        "loginCTA": "Login",
+        "bodyHeader1": "Who is it for?",
+        "bodyText1": "Clients and translators who are looking for a faster and cheaper way to update copy and see their changes in situ, without needing to go through the development team.",
+        "bodyText2": "Project managers and developers who are looking for an easier solution to leave all copy and translation updates to the client after the initial set up.",
+        "bodyHeader2": "How does it work?",
+        "workflow1": "Edit in Google Sheets",
+        "workflow2": "Sync to Locale Studio",
+        "workflow3": "Export to GitHub",
+        "moreCTA": "Learn More"
+    },
+    "registration": {
+        "title": "Create an account",
+        "loginOption": "Already have an account?",
+        "loginCTA": "Login instead"
+    },
+    "registrationForm": {
+        "emailLabel": "Enter email address",
+        "emailError": "Email is not valid",
+        "passwordLabel": "Enter password",
+        "passwordError": "Password must be a minimum 8 characters and include one uppercase, one lowercase and a number.",
+        "createCTA": "Create account"
+    },
+    "login": {
+        "title": "Login",
+        "forgotCTA": "Forgot password?"
+    },
+    "loginForm": {
+        "emailLabel": "Email",
+        "passwordLabel": "Password",
+        "registerCTA": "Register",
+        "loginCTA": "Login"
+    },
+    "account": {
+        "title": "My projects",
+        "title2": "Account",
+        "signOutCTA": "Sign out"
+    },
+    "addProject": {
+        "stepLabel1": "Set project name",
+        "stepLabel2": "Link to a Google Sheet",
+        "stepLabel3": "Link to your GitHub Repo",
+        "stepLabel4": "Define GitHub destination path",
+        "stepText1": "This name will be used within Studio Locale",
+        "stepText2": "This will be your source of translation data",
+        "stepText3": "This will be the destination for your translations",
+        "stepText4": "Where Local Studio will put the files it creates from your Google Sheet",
+        "noName": "No project name",
+        "noSheet": "No Google Sheet",
+        "noRepo": "No GitHub Repo",
+        "finishCTA": "Finish",
+        "updateCTA": "Update",
+        "nextCTA": "Next",
+        "completed": "All steps completed - you're ready to create a project",
+        "createCTA": "Create Project"
+    },
+    "setTitle": {
+        "label": "Project Name"
+    },
+    "googlePicker": {
+        "change": "Change Google Sheet",
+        "add": "Add Google Sheet",
+        "clone": "Clone our template"
+    },
+    "permissionModal": {
+        "modalTitle": "Studio Locale Permissions",
+        "modalDescription": "Studio Locale would like to access your Google Drive. See our privacy policy for more details.",
+        "modalPrimaryCTA": "Accept",
+        "modalSecondaryCTA": "Cancel",
+        "modalLink": "Read our privacy policy"
+    },
+    "cloneModal": {
+        "modalTitle": "Cloning the Studio Locale template",
+        "modalDescription": "You can quickly set up a fresh template by following these steps:",
+        "modalPrimaryCTA": "Return",
+        "listItemPrimary1": "Click the clone-our-template button",
+        "listItemSecondary1": "You'll be asked to authorise access to your Google Drive, so we can add a copy of our template there",
+        "listItemPrimary2": "Locate the Sheet in your Google Drive",
+        "listItemSecondary2": "A Google Sheet titled 'Copy of Template Sheet for Translations' will appear in your Google Drive",
+        "listItemPrimary3": "Link your cloned Sheet",
+        "listItemSecondary3": "Once you've cloned the template, it is ready to add to your Studio Locale project"
+    },
+    "gitHubAddRepo": {
+        "signInCTA": "Sign into GitHub",
+        "noInstallations": "No Installations, please install app.",
+        "installCTA": "Install",
+        "accountLabel": "Account",
+        "accountOption": "-- Select account --",
+        "repoLabel": "Repo",
+        "repoOption": "-- Select repo --",
+        "branchLabel": "Branch",
+        "branchOption": "-- Select branch --"
+    },
+    "pathLabel": {
+        "pathLabel": "Destination path"
+    }
+}
