@@ -1,0 +1,108 @@
+{
+    "headerNavOptions": {
+        "login": "EMPTY",
+        "register": "EMPTY",
+        "account": "EMPTY",
+        "about": "EMPTY"
+    },
+    "landing": {
+        "heroHeaderLine1": "EMPTY",
+        "heroHeaderLine2": "EMPTY",
+        "heroBody": "EMPTY",
+        "registerCTA": "EMPTY",
+        "loginCTA": "EMPTY",
+        "bodyHeader1": "EMPTY",
+        "bodyText1": "EMPTY",
+        "bodyText2": "EMPTY",
+        "bodyHeader2": "EMPTY",
+        "workflow1": "EMPTY",
+        "workflow2": "EMPTY",
+        "workflow3": "EMPTY",
+        "moreCTA": "EMPTY"
+    },
+    "registration": {
+        "title": "EMPTY",
+        "loginOption": "EMPTY",
+        "loginCTA": "EMPTY"
+    },
+    "registrationForm": {
+        "emailLabel": "EMPTY",
+        "emailError": "EMPTY",
+        "passwordLabel": "EMPTY",
+        "passwordError": "EMPTY",
+        "createCTA": "EMPTY"
+    },
+    "login": {
+        "title": "EMPTY",
+        "forgotCTA": "EMPTY"
+    },
+    "loginForm": {
+        "emailLabel": "EMPTY",
+        "passwordLabel": "EMPTY",
+        "registerCTA": "EMPTY",
+        "loginCTA": "EMPTY"
+    },
+    "account": {
+        "title": "EMPTY",
+        "title2": "EMPTY",
+        "signOutCTA": "EMPTY"
+    },
+    "addProject": {
+        "stepLabel1": "EMPTY",
+        "stepLabel2": "EMPTY",
+        "stepLabel3": "EMPTY",
+        "stepLabel4": "EMPTY",
+        "stepText1": "EMPTY",
+        "stepText2": "EMPTY",
+        "stepText3": "EMPTY",
+        "stepText4": "EMPTY",
+        "noName": "EMPTY",
+        "noSheet": "EMPTY",
+        "noRepo": "EMPTY",
+        "finishCTA": "EMPTY",
+        "updateCTA": "EMPTY",
+        "nextCTA": "EMPTY",
+        "completed": "EMPTY",
+        "createCTA": "EMPTY"
+    },
+    "setTitle": {
+        "label": "EMPTY"
+    },
+    "googlePicker": {
+        "change": "EMPTY",
+        "add": "EMPTY",
+        "clone": "EMPTY"
+    },
+    "permissionModal": {
+        "modalTitle": "EMPTY",
+        "modalDescription": "EMPTY",
+        "modalPrimaryCTA": "EMPTY",
+        "modalSecondaryCTA": "EMPTY",
+        "modalLink": "EMPTY"
+    },
+    "cloneModal": {
+        "modalTitle": "EMPTY",
+        "modalDescription": "EMPTY",
+        "modalPrimaryCTA": "EMPTY",
+        "listItemPrimary1": "EMPTY",
+        "listItemSecondary1": "EMPTY",
+        "listItemPrimary2": "EMPTY",
+        "listItemSecondary2": "EMPTY",
+        "listItemPrimary3": "EMPTY",
+        "listItemSecondary3": "EMPTY"
+    },
+    "gitHubAddRepo": {
+        "signInCTA": "EMPTY",
+        "noInstallations": "EMPTY",
+        "installCTA": "EMPTY",
+        "accountLabel": "EMPTY",
+        "accountOption": "EMPTY",
+        "repoLabel": "EMPTY",
+        "repoOption": "EMPTY",
+        "branchLabel": "EMPTY",
+        "branchOption": "EMPTY"
+    },
+    "pathLabel": {
+        "pathLabel": "EMPTY"
+    }
+}
